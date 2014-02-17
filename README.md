@@ -1,12 +1,12 @@
 GGAPageIndicator
 ================
 
-Color Picker Library for Android.
+PageIndicator Library for Android (used with ViewPager or other similar piece of UI).
 Can be used with Android 2.2 and above.
 
 Setup
 ==============
-- reference the GGACalendar library in your project propreties.
+- reference the GGAPageIndicator library in your project propreties.
 - create the layout with a RelativeLayout as the parent layout for the ViewPager (this is a must!)
 ```
 <RelativeLayout
@@ -36,4 +36,4 @@ if(adapter.getCount() > 1)
 }
 ```
 
-![GGAColorPicker1](https://raw2.github.com/HoriaGoran/GGAColorPicker/master/GGAColorPicker-lib/images/Screenshot.png)
+![GGAColorPicker1](https://raw2.github.com/HoriaGoran/GGAPageIndicator/master/GGAPageIndicatorTest/assets/image.png)
