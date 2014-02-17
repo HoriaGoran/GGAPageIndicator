@@ -13,11 +13,13 @@ Setup
 	android:id="@+id/viewpager_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
+
 	    <android.support.v4.view.ViewPager
 	        android:id="@+id/viewpager_id"
 	        android:layout_width="match_parent"
 	        android:layout_height="match_parent"
 	        android:background="#FFFFFF" />
+	        
 </RelativeLayout>
 ```
 - setup the ViewPager and the GGAPageIndicator:
