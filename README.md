@@ -38,4 +38,4 @@ if(adapter.getCount() > 1)
 }
 ```
 
-![GGAColorPicker1](https://raw2.github.com/HoriaGoran/GGAPageIndicator/master/GGAPageIndicatorTest/assets/image.png)
+![GGAColorPicker1](https://raw.githubusercontent.com/HoriaGoran/GGAPageIndicator/master/GGAPageIndicatorTest/assets/image.png)
